@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+
+
+.df{
+    width: 60px;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 32px;
+}
+.cabecalho-imagem {
+    height: 90px;
+}
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+.cabecalho-menu-item-destaque {
+    font-family: 'Comfortaa', cursive;
+    color: #517879;
+    font-weight: 700;
+}
+
+.cabecalho-menu-item {
+    font-family: 'Comfortaa', cursive;
+    color: #000000;
+    font-weight: 500;
+}
+.Título {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 180;
+    font-size: 48px;
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+.Título-2 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 48px;
+    color: #517879;
+    align-items: center;
+}
+.Escrito-2 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 300;
+    font-size: 24px;
+    color: #000000;
+ }
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+       
+}
+.conteudo-principal-imagem {
+    height: 800px;
+    margin: 32px;
+    
+}
+.conteudo-principal-escrito-botao {
+    background-color: #FFFFFF;
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 0px 4px 4px #517879;
+    border-radius: 20px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 70px;
+    margin: 32px;
+    
+    
+}
+
+.Pet {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 40px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+}
+.Pet-1 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 70px;
+    color: #567AB1; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 70px;
+    
+}
+.Pet-2 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #567AB1; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 30px;
+    
+}
+
+.Pet-3 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    color: #567AB1; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 40px;
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.Pet-4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    size: 40px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #567AB1;
+}
+
+.rodape {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 500px;
+    font-size: 18px;
+    color: #000000;
+    margin:42px;
+    margin: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    
+}
+
+
+
